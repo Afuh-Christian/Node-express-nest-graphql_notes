@@ -1,0 +1,2 @@
+20220906	19:23:17	2867e1d8-2bb4-43a8-8579-3c11f9dab423	Error:Not allowed by CORS	
+20220906	19:23:17	8c4efc74-b55e-48ad-94b3-e1b6d4ca113d	Error:Not allowed by CORS	

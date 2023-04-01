@@ -1,0 +1,89 @@
+20220906	19:23:17	2867e1d8-2bb4-43a8-8579-3c11f9dab423	Error:Not allowed by CORS	
+20220906	19:23:17	8c4efc74-b55e-48ad-94b3-e1b6d4ca113d	Error:Not allowed by CORS	
+20220907	14:17:21	2882c49f-1c4d-4645-9700-5c102a54cf84	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:21:43	2af71e7b-1357-44df-bc14-2d9d47790dfa	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:22:48	9f9c672e-b3e5-4abb-9021-1c694a22b755	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:23:39	992c1529-6cdd-4e79-b62d-dd0604b8d365	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:29:54	02d4a1bc-6e78-4e87-a04d-610bab69aff0	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:30:07	d8b4e003-2b3e-4ae7-9779-ef41e5ef533b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:30:20	28158b32-ec3b-4d1c-aa46-3c3f4a140b6b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:30:35	3676a8f8-678b-4aa4-9495-414b29e628f8	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:34:38	fa3515dc-b859-45bc-902a-321d7f6dec5f	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:35:54	0af9551b-c857-462c-9428-44adc8a4cb49	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:35:59	2e5d75c5-2079-40cf-8120-fe7310646e0d	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:36:35	409f9b20-6472-48ce-87ca-30578c5f9664	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:39:09	1ca46e5c-f816-45a0-a6b3-03636b062a02	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:39:33	ea562568-8c15-4b33-8e25-140d399bdee9	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:27	07683b78-5244-4e44-b7f2-6689b2ecd6f8	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:28	fdad8c81-72db-4aeb-b0dd-b0a709c5152f	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:29	a5da3f37-5c16-4333-845a-91907732b795	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:30	5c5b0c0e-3f0a-4fcd-ade5-288718d335c6	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:31	cda18ac7-f5b2-4f7e-842a-57db63ef3558	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:32	aecf97c9-a3f7-4d4e-8fa0-fa8f056156f1	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:45	d3734cc1-61fa-4a86-be2f-2f13387a9e4f	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:40:51	4bbc22d8-a9a3-4405-8682-4aaadbd8fdd4	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:43:22	d0b199ac-891a-4f55-8d35-1649541e7266	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:47:46	021f08dc-cf27-42b1-8093-0e37783a1e9b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:47:47	0a864e2e-2ebd-40e6-ba18-d8222e2c7563	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:47:48	bd6a4e54-30d1-4100-b092-b8eb508c088b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:47:49	fc4741f1-3b0d-4e07-aa1d-20b8ab668ce2	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:47:49	12d5abdc-870a-45b2-a4cb-809005c9ab37	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	14:47:49	7f920d24-6625-41cc-ae1a-be823bc68477	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:02:45	42a9a64f-0842-41d7-b023-e9fec1f75cd7	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:04:40	ed86b687-3b6f-4a2c-84bf-09da5717d06b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:04:50	82ea1e07-bd93-4c64-89ba-0e030d64d26b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:05:07	24e42642-a5e2-4a93-8170-ee80a6dcb4e1	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:06:40	c2660da9-20c0-46f3-a2bf-fdb08c30591b	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:07:55	92b20cf4-41ce-407d-8516-cfbb0208739c	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	15:19:53	dd56cd32-9b77-4624-9b72-973109b2c33e	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	18:42:14	86512142-9472-4b06-8268-efe406de7454	ReferenceError:data is not defined	
+20220907	20:58:42	40bfb80a-8630-40f7-ae41-0fe38357062f	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	20:58:53	8135774f-1c3d-415b-9886-a38c9563b320	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	20:59:55	f3b09eab-75e6-4802-a51d-7bbf04b450e8	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	21:02:21	39af5d4c-8a14-4543-86bf-35be663170f1	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	21:18:42	ffbfa03f-8766-4f4a-926a-7d1d255942fb	TypeError:Cannot set properties of undefined (setting 'firstname')	
+20220907	21:18:44	9ab00985-843b-4cd2-ba57-1775c428e37f	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\Web Development  React & Django & Node.js\Backend webdev\Javascript\Node & Express js\notes\01TUT\routes\views\404.html'	
+20220907	21:18:56	129ce2c7-de3b-4387-8a0e-132ac8de02c4	TypeError:Cannot set properties of undefined (setting 'firstname')	
+20220907	21:22:30	47574eda-3b30-4550-8d89-95a097820674	TypeError:Cannot read properties of undefined (reading 'id')	
+20220907	21:22:44	78328e5a-0e7d-4aa9-be8c-6a6e2b90b4f8	TypeError:Cannot read properties of undefined (reading 'id')	
+20220907	21:40:08	a7dfd36e-758e-4178-a397-d95fe6f0c217	TypeError:Cannot read properties of undefined (reading 'id')	
+20220907	21:40:27	390da31e-1e19-43f0-aa1c-a01fb0fff6b2	TypeError:Cannot set properties of undefined (setting 'firstname')	
+20220907	21:40:32	8de27ad9-1983-4b5a-a637-5ebe9dda5c8a	TypeError:Cannot set properties of undefined (setting 'firstname')	
+20220907	21:50:16	7265fbab-8a8e-4d77-974b-2e7b2de4da4f	TypeError:data.employees.push is not a function	
+20220907	21:50:57	d2279989-143d-43cc-8c69-9f8430674ef7	TypeError:data.employees.push is not a function	
+20220907	21:52:31	c16ed6fd-875b-4daa-9510-32b4fbcfe61a	Error:Cannot set headers after they are sent to the client	
+20220907	21:53:17	18f1288d-9acb-4df1-b5bb-6c56f56b3010	TypeError:data.employees.push is not a function	
+20220907	21:53:25	70809654-8362-469f-a438-ccac630ec7cf	TypeError:data.employees.push is not a function	
+20220907	21:53:55	8841d245-fb37-4ce9-b81a-cf53c87760e2	TypeError:data.employees.push is not a function	
+20220907	21:57:56	55e40b6c-bbc3-41c6-8caa-6391c811d33c	TypeError:data.employees.push is not a function	
+20220907	21:57:58	42c2cc25-d374-4eef-be08-46c1937da448	TypeError:data.employees.push is not a function	
+20220909	16:42:28	67749511-2599-4e26-8146-9426ea1e9920	Error:ENOENT: no such file or directory, stat 'E:\Saved Files\Courses\WebDevelopmentReact&Django&Node.js\Backendwebdev\Javascript\Node&Expressjs\notes\01TUT\routes\views\404.html'	
+20220910	18:54:23	54a4228c-4343-432e-a6d0-e5ce883aaf51	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:13:58	dd966bb6-8b15-4214-b0af-868bceaa3875	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:21:27	28c3d484-ea06-4ed2-8401-b2f2670e7f86	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:23:29	890c2e96-e3a8-499b-a189-f7d7d0c39015	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:23:38	ff662e6f-de6f-475a-afed-7f458d5d3b95	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:37:14	6f56acb5-7f1a-4b49-860b-2ff4e4f7e88f	TypeError:Cannot read properties of undefined (reading 'jwt')	
+20220910	19:42:31	9f2f0530-bf9f-440b-9000-d988f3dff0ce	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:44:15	e7c76e79-0b3d-4699-8477-75df4b744e3b	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:48:14	44fb3525-8fd8-435d-a441-2470b8825fc1	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:49:28	326a9173-7f06-43d6-abe3-d34979c5d6f0	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:50:22	100d9c16-5733-4a9a-b95e-1ffca35ca6d8	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	19:56:16	f887d1cc-3e4e-456e-8732-20d25b23bfe8	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:05:08	83a4f6fe-4374-4648-b401-aee5c9fe0155	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:05:09	c8a56dc0-ff3d-4e6e-baee-26aa833a29c3	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:07:32	4e1c94c8-bd62-4f1e-9537-6798a59cad32	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:07:45	32d72509-d215-46a5-9b84-cbd84694bcff	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:14:11	e2696583-f695-4122-92d9-5156b8826dad	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:15:32	01c43eb2-1cd8-4408-a045-a1a229ad3a25	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:15:34	6460a6cc-1305-4810-a964-d868c8ce0225	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:15:34	8f7d33e6-5e08-45fd-96a5-f7de7e77f822	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:16:58	da7d7817-bac5-435e-9bdd-a538b4653192	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:16:59	cbe6610a-8f8f-4559-9a85-f209e4120d7c	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:17:00	f699dacc-4f52-43b5-9826-5212c9ef6d5c	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:17:00	534253e0-1042-48cd-ac37-1cb227b18c3c	TypeError:Cannot read properties of undefined (reading 'username')	
+20220910	20:17:01	400ebdc6-7134-4594-b6cf-98fc2a6412f4	TypeError:Cannot read properties of undefined (reading 'username')	
+20220919	07:51:24	eb2eb01b-bdd4-4942-99c5-3baac425cf6c	TypeError:Cannot read properties of undefined (reading 'username')	
+20220919	07:51:49	ac1a351b-2141-47c9-a1e7-4bcaf0a2fe48	TypeError:Cannot read properties of undefined (reading 'username')	
+20220919	07:52:21	93cef74d-4681-4cce-acf8-01326ca41732	TypeError:Cannot read properties of undefined (reading 'username')	
+20220921	12:27:57	758ed509-20e3-4e6e-ba17-bc1f32e67bca	ReferenceError:Authorization is not defined	
